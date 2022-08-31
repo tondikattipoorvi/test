@@ -1,0 +1,8 @@
+1. Open Git Bash
+2. Change directory : ex : cd D - Moves to D directory
+3. add command in git bash :  git clone "URL"
+4. add file in ur local cloned directory
+5. add command in git bash : git add .
+6. add command in git bash : git commit -m "description" (Login for 1st time with email used to create git repository)
+7. git push
+
